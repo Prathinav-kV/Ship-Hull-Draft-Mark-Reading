@@ -27,8 +27,7 @@ This project focuses on detecting water levels from video footage of a ship hull
 
 ## Results
 
-- **Time and Space Complexities**: Detailed time and space complexities for the implemented algorithms.
-- **Simulation Performance**: Conducted multiple test cases demonstrating the efficiency and effectiveness of the water level detection method.
+- **Performance**: Conducted multiple test cases demonstrating the efficiency and effectiveness of the water level detection method.
 
 ## Methodology
 
